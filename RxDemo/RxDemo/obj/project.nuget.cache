@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1I755k/IDp2fGUZntRynj5jVHhAzrbimYxWjGS7uPBMCcwZlj1OhTdkljOLetOF7LY/BJ9N4xh2act6JBuPONA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\med\\Documents\\RxDemo\\RxDemo\\RxDemo\\RxDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\med\\.nuget\\packages\\system.reactive\\6.0.2\\system.reactive.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

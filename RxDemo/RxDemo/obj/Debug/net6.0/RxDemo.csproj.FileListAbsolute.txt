@@ -1,0 +1,17 @@
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\bin\Debug\net6.0\RxDemo.exe
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\bin\Debug\net6.0\RxDemo.deps.json
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\bin\Debug\net6.0\RxDemo.runtimeconfig.json
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\bin\Debug\net6.0\RxDemo.dll
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\bin\Debug\net6.0\RxDemo.pdb
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.AssemblyInfoInputs.cache
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.AssemblyInfo.cs
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.csproj.CoreCompileInputs.cache
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.dll
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\refint\RxDemo.dll
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.pdb
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.genruntimeconfig.cache
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\ref\RxDemo.dll
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.csproj.AssemblyReference.cache
+C:\Users\med\Documents\RxDemo\RxDemo\RxDemo\obj\Debug\net6.0\RxDemo.csproj.CopyComplete
